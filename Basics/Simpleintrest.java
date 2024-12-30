@@ -1,3 +1,4 @@
+package Basics;
 public class Simpleintrest {
     public static void main(String[] args){
         int p=100;
