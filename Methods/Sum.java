@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 public class Sum {
     public static void printSum(int a, int b){

@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 public class MaxMinNumbers {
     public static void printMax(int a,int b,int c){

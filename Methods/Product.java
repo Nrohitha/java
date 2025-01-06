@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 public class Product {
     public static int calculateProduct(int a, int b){
