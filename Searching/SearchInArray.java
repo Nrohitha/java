@@ -1,4 +1,4 @@
-package LinearSearch;
+package Searching;
 public class SearchInArray {
     public static void main(String[] args) {
         int[]nums={45,67,34,1,23,89,40};
